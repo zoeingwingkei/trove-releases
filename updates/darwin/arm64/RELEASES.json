@@ -1,0 +1,17 @@
+{
+  "currentRelease": "0.1.0",
+  "releases": [
+    {
+      "version": "0.1.0",
+      "updateTo": {
+        "version": "0.1.0",
+        "pub_date": "2026-10-13T17:54:38.260Z",
+        "name": "Trove 0.1.0",
+        "notes": "Trove 0.1.0 for Apple silicon.",
+        "url": "https://github.com/zoeingwingkei/trove-releases/releases/download/v0.1.0/Trove-darwin-arm64-0.1.0.zip",
+        "sha256": "4ae7bfc1f21d8a21f2f8fbbdfceee7057364a2f312b2be2654f0aa959296afc6",
+        "size": 126868210
+      }
+    }
+  ]
+}
